@@ -2,7 +2,7 @@
 const teamMembers = [
   {
     id: 1,
-    name: "Kukuh",
+    name: "Kukuh Rizal",
     position: "CEO",
     photo: "/team/kukuh.png",
   },
